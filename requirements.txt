@@ -1,0 +1,2 @@
+# Python Arena, runtime dependencies, Python 3.10+ is recommended.
+pygame>=2.5.0
